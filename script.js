@@ -36,3 +36,8 @@ function scrollFunction() {
     document.getElementById("header").style.fontSize = "90px";
   }
 }
+
+
+function myFunction() {
+    location.replace("https://youjunzhang.github.io/Project-2---page-0/");
+  }
